@@ -11,5 +11,5 @@ Gem::Specification.new do |spec|
   spec.homepage      = 'https://github.com/jstew529/jquery-slick-rails.git'
   spec.license       = "MIT"
 
-  spec.files         = Dir['{lib,vendor}/**/*'] + ['README.md', 'LICENSE']
+  spec.files         = Dir['{lib,vendor}/**/*'] + ['README.md', 'LICENSE.txt']
 end
